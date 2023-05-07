@@ -3,8 +3,6 @@ package models;
 import domain.Project;
 import domain.ProjectItem;
 import domain.Task;
-import models.ProjectBridge;
-import models.ProjectManagement;
 
 public class WaterfallProjectBridge implements ProjectBridge {
     private ProjectManagement projectManagement;

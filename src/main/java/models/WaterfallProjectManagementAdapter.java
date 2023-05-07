@@ -3,7 +3,6 @@ package models;
 import data.WaterfallProjectManagement;
 import models.ProjectManagement;
 
-// Create an adapter class for the Waterfall project management methodology
 public class WaterfallProjectManagementAdapter implements ProjectManagement {
     private WaterfallProjectManagement waterfall;
 
